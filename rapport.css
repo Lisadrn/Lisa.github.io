@@ -109,4 +109,14 @@
 
  
             }
+
+            .picture{
+            border-radius: 0%;
+            max-width: 200px;
+            margin: auto;
+            display: block;
+            margin-bottom: 50px;
+            margin-top: 10;
+        
+        }
         
